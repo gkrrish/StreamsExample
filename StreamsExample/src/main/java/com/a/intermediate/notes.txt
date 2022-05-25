@@ -1,0 +1,9 @@
+Intermediate operations :
+-------------------------
+map()
+filter()
+sorted()
+limit()
+distinct()
+
+
