@@ -2,19 +2,19 @@
 ------------------------------------------------------
 Functional Interface  | input            | output    |       
 ------------------------------------------------------
-Predicate             | single value	   | boolean   |
+Predicate             | single value	 | boolean   |
 ------------------------------------------------------
-Supplier						  | no input				 | R         |
+Supplier			  | no input	     | R         |
 ------------------------------------------------------
-Consumer						  | single value		 | No        |
+Consumer			  | single value	 | No        |
 ------------------------------------------------------
-Functional 						| single value     | R         |
+Functional 			  | single value     | R         |
 ------------------------------------------------------
-BiPredicate					  | two values			 | boolean   |
+BiPredicate			  | two values		 | boolean   |
 ------------------------------------------------------
-BiConsumer						| two values       | No        |
+BiConsumer			  | two values       | No        |
 ------------------------------------------------------
-BiFunctional					| two values			 | R         |
+BiFunctional		 | two values		 | R         |
 ------------------------------------------------------
 
 
